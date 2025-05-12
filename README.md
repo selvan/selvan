@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selvan
 - 👀 I’m interested in sports, audio/video engineering, game engines and programming languages.
 - 💞️ I love to create unique user experiences with technologies.
-- 🌱 I’m currently building [The CheerLabs](https://www.thecheerlabs.com).
+- 🌱 I’m currently building [CheerArena](https://www.cheerarena.com).
 - 📫 Am reachable at selvan@cheerarena.com
 
 <!---
